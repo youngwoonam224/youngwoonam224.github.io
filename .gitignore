@@ -27,3 +27,46 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+### Atom ###
+.ftpconfig
+.sftpconfig
+
+### Gulp ###
+package.json
+/node_modules/
+
+### Compiled Source ###
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+### Compressed Packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### Logs and Databases ###
+*.log
+*.sql
+*.sqlite
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
